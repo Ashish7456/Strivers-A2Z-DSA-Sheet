@@ -1,5 +1,5 @@
 package Arrays;
-
+// https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/2088994503/
 public class check_rotated_sorted {
     // checking arrays is sorted and rotated
     static boolean check(int[] arr) {
